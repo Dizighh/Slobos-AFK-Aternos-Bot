@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Diaz_108.aternos.me:45562",
-    "port": 27586,
+    "ip": "Diaz_108.aternos.me",
+    "port": 45562,
     "version": "",
     "try-creative": false
   },
